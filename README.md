@@ -9,7 +9,7 @@
 
 <!-- NAV / HEADER STRIP -->
 <p align="center">
-  <img src="assets/strip-top.png" width="1000" alt="Top UI Strip"/>
+  <img src="assets/ChatGPT Image 20 فبراير 2026، 12_04_29 ص.png" width="1000" alt="Top UI Strip"/>
 </p>
 
 <p align="center">
