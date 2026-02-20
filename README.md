@@ -6,7 +6,8 @@
 <div align="center">
 
 <!-- TOP STRIP -->
-<img src="assets/أزرق حديث ملخص LinkedIn بانر.png" width="1000" alt="Top UI Strip"/>
+
+<img src="assets/Black and white simple initial logo (5).png" width="1000" alt="Top UI Strip"/>
 
 <!-- TITLE (Crisp SVG - stays sharp) -->
 <svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wasan Almutaani">
