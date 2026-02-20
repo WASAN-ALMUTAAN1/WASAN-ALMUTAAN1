@@ -8,8 +8,10 @@
 <!-- TOP STRIP -->
 
 <div align="center">
-  <img src="https://github.com/WASAN-ALMUTAAN1.png" width="100" height="100" alt="Profile Logo" />
+  <img src="assets/logo.png" width="80" height="80" style="border-radius:50%;" alt="Logo" />
 </div>
+
+
 
 
 <!-- TITLE (Crisp SVG - stays sharp) -->
